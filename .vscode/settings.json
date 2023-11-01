@@ -28,8 +28,11 @@
       "hrfm"
    ],
    "cSpell.words": [
+      "allauth",
       "cloudinary",
       "Cloudinary",
+      "forloop",
+      "socialaccount",
       "summernote"
    ]
 }
